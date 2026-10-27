@@ -1,0 +1,4 @@
+﻿bin/
+obj/
+fan_log.txt
+fan_errors.txt
